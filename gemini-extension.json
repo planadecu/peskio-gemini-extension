@@ -1,6 +1,6 @@
 {
   "name": "peskio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tides, sea conditions and fishing day scores for 48,000+ coastal places in Europe, North Africa and the US.",
   "mcpServers": {
     "peskio": { "httpUrl": "https://peskio.com/mcp" }
